@@ -1,2 +1,2 @@
 # coredemo
-ilk .ner core github denememdir
+ilk .net core github denememdir
